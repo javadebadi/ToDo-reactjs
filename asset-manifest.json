@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/javadebadi/ToDo-reactjs/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/javadebadi/ToDo-reactjs/static/js/main.6ee6c9b9.chunk.js",
-    "main.js.map": "/javadebadi/ToDo-reactjs/static/js/main.6ee6c9b9.chunk.js.map",
-    "runtime-main.js": "/javadebadi/ToDo-reactjs/static/js/runtime-main.dd7f4b9e.js",
-    "runtime-main.js.map": "/javadebadi/ToDo-reactjs/static/js/runtime-main.dd7f4b9e.js.map",
-    "static/js/2.2319af16.chunk.js": "/javadebadi/ToDo-reactjs/static/js/2.2319af16.chunk.js",
-    "static/js/2.2319af16.chunk.js.map": "/javadebadi/ToDo-reactjs/static/js/2.2319af16.chunk.js.map",
-    "static/js/3.5108567d.chunk.js": "/javadebadi/ToDo-reactjs/static/js/3.5108567d.chunk.js",
-    "static/js/3.5108567d.chunk.js.map": "/javadebadi/ToDo-reactjs/static/js/3.5108567d.chunk.js.map",
-    "index.html": "/javadebadi/ToDo-reactjs/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/javadebadi/ToDo-reactjs/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2319af16.chunk.js.LICENSE.txt": "/javadebadi/ToDo-reactjs/static/js/2.2319af16.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/javadebadi/ToDo-reactjs/static/media/logo.103b5fa1.svg"
+    "main.css": "/ToDo-reactjs/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ToDo-reactjs/static/js/main.6ee6c9b9.chunk.js",
+    "main.js.map": "/ToDo-reactjs/static/js/main.6ee6c9b9.chunk.js.map",
+    "runtime-main.js": "/ToDo-reactjs/static/js/runtime-main.0a35d063.js",
+    "runtime-main.js.map": "/ToDo-reactjs/static/js/runtime-main.0a35d063.js.map",
+    "static/js/2.2319af16.chunk.js": "/ToDo-reactjs/static/js/2.2319af16.chunk.js",
+    "static/js/2.2319af16.chunk.js.map": "/ToDo-reactjs/static/js/2.2319af16.chunk.js.map",
+    "static/js/3.5108567d.chunk.js": "/ToDo-reactjs/static/js/3.5108567d.chunk.js",
+    "static/js/3.5108567d.chunk.js.map": "/ToDo-reactjs/static/js/3.5108567d.chunk.js.map",
+    "index.html": "/ToDo-reactjs/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ToDo-reactjs/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2319af16.chunk.js.LICENSE.txt": "/ToDo-reactjs/static/js/2.2319af16.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/ToDo-reactjs/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd7f4b9e.js",
+    "static/js/runtime-main.0a35d063.js",
     "static/js/2.2319af16.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.6ee6c9b9.chunk.js"
