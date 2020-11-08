@@ -1,15 +1,24 @@
 import React from 'react'
 
+function TodoItem () {
+  return (
+    <div className="todo-item">
+      <input type="checkbox" className="todo-item-checkbox"/>
+      <label className="todo-item-label">Todo Item </label>
+      <br/>
+      <hr/>
+    </div>
+  )
+}
+
+
 function App () {
   return (
     <div>
-      <input type="checkbox"/>
-      <label> Read</label><br/>
-      <input type="checkbox"/>
-      <label>Exercise</label><br/>
-      <input type="checkbox"/>
-      <label>Code</label><br/><br/>
-      <input type="submit" value="Submit"/>
+      <TodoItem />
+      <TodoItem />
+      <TodoItem />
+      <TodoItem />
     </div>
   )
 }
