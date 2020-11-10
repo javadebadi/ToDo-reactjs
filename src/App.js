@@ -5,7 +5,7 @@ import todoData from './todoData'
 function App () {
   return (
     <div>
-      <TodoList />
+      <TodoList data={todoData}/>
     </div>
   )
 }

@@ -1,13 +1,14 @@
 import React from "react"
 import TodoItem from "./TodoItem"
 
-function TodoList () {
+function TodoList (props) {
+  const propsComponents = props.data.map(
+      (item) => <TodoItem key={item.id} data={item} />
+  )
+
   return (
     <div className="todo-list">
-      <TodoItem />
-      <TodoItem />
-      <TodoItem />
-      <TodoItem />
+      {propsComponents}
     </div>
   )
 }
