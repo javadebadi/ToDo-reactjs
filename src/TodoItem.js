@@ -5,6 +5,7 @@ function TodoItem (props) {
     <div className="todo-item">
       <input type="checkbox"
         className="todo-item-checkbox"
+        checked={props.data.done}
       />
       <label className="todo-item-label">
         {props.data.name}

@@ -2,12 +2,21 @@ import React from 'react'
 import TodoList from './TodoList'
 import todoData from './todoData'
 
-function App () {
-  return (
-    <div>
-      <TodoList data={todoData}/>
-    </div>
-  )
+class App extends React.Component {
+  constructor() {
+    super()
+    this.state = {
+      data: todoData
+    }
+  }
+
+  render () {
+    return (
+      <div>
+        <TodoList data={this.state.data}/>
+      </div>
+    )
+  }
 }
 
 export default App
