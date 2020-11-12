@@ -1,19 +1,23 @@
 const todoData = [
   {
     "id": 1,
-    "name": "Read book"
+    "name": "Read book",
+    "done": true
   },
   {
     "id": 2,
-    "name": "Exercise"
+    "name": "Exercise",
+    "done": false
   },
   {
     "id": 3,
-    "name": "Watch Movie"
+    "name": "Watch Movie",
+    "done": false
   },
   {
     "id": 4,
-    "name": "Meditate"
+    "name": "Meditate",
+    "done": false
   }
 ]
 
