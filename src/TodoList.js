@@ -3,7 +3,7 @@ import TodoItem from "./TodoItem"
 
 function TodoList (props) {
   const propsComponents = props.data.map(
-      (item) => <TodoItem key={item.id} data={item} />
+      (item) => <TodoItem key={item.id} data={item} onchange={props.onchange}/>
   )
 
   return (
